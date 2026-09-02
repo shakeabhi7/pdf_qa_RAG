@@ -6,3 +6,4 @@ pypdf==5.1.0
 streamlit==1.40.0
 python-dotenv==1.0.1
 langchain-pymupdf4llm
+google-genai
