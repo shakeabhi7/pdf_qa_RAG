@@ -17,7 +17,7 @@ CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
 
 #models settings
-LLM_MODEL = "gemini-2.0-flash"
+LLM_MODEL = "gemini-2.5-flash"
 EMBEDDING_MODEL = "models/gemini-embedding-001"
 
 #Retrieval settings
